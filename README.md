@@ -1,17 +1,15 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
 With over 14 years of experience in software development, I have driven an increase of millions in annual revenue as a Senior Software Developer at Thoughtworks. As CTO at Dei um Tempo and Clinton Education, I successfully managed teams and aligned product development with business objectives. In just 3 years at HomeGuru App, I developed APIs with Graphql and Ruby on Rails, resulting in improved architecture and data analysis.
 
 
 <h3>Currently working on</h3>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/thoughtworks-logo.svg"/>]([https://www.thoughtworks.com/)
+[<img align="left" width="94px" alt="Warpnet" src="https://github.com/muriloazevedo/muriloazevedo/assets/1427567/418e5b44-ea94-45b5-ad12-6363d9d66298"/>]([https://www.thoughtworks.com/)
 
 **Software Engineer** \
 [**Thoughtworks**](https://www.thoughtworks.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `C#`,`Ruby`,\
+Languages and Technologies: `Python`, `C#`,`Ruby`,\
 <br/>
 
 <h3>Tech Stack</h3>
@@ -28,7 +26,6 @@ Linguagens & Tecnologias: `Python`, `C#`,`Ruby`,\
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-
 **DevOps**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -41,8 +38,7 @@ Linguagens & Tecnologias: `Python`, `C#`,`Ruby`,\
 
 <br/>
 
-<h3>Onde me encontrar</h3>
+<h3>Let's talk!</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/muriloazevedo?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muriloazevedo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muriloazevedo)
