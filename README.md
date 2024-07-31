@@ -1,15 +1,14 @@
 <h3>About me</h3>
 
-With over 14 years of experience in software development, I have driven an increase of millions in annual revenue as a Senior Software Developer at Thoughtworks. As CTO at Dei um Tempo and Clinton Education, I successfully managed teams and aligned product development with business objectives. In just 3 years at HomeGuru App, I developed APIs with Graphql and Ruby on Rails, resulting in improved architecture and data analysis.
+With over 14 years of experience in software development, I have driven an increase of millions in annual revenue as a Software Engineer at [Arionkoder](https://www.arionkoder.com/) and [Thoughtworks](https://www.thoughtworks.com/). As CTO at Dei um Tempo and Clinton Education, I successfully managed teams and aligned product development with business objectives. In just 3 years at HomeGuru App, I developed APIs with Graphql and Ruby on Rails, resulting in improved architecture and data analysis.
 
 
 <h3>Currently working on</h3>
 
-[<img align="left" width="94px" alt="Warpnet" src="https://github.com/muriloazevedo/muriloazevedo/assets/1427567/418e5b44-ea94-45b5-ad12-6363d9d66298"/>]([https://www.thoughtworks.com/)
-
+[<img align="left" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/63fd2289-6877-4fe1-b6fb-bdde2ab9d8b1"/>]([https://arionkoder.com/)
 **Software Engineer** \
-[**Thoughtworks**](https://www.thoughtworks.com/) • Full-time \
-Languages and Technologies: `Python`, `C#`,`Ruby`,\
+[**Arionkoder**](https://www.arionkoder.com/) • Full-time \
+Languages and Technologies: `Ruby`,`Python` \
 <br/>
 
 <h3>Tech Stack</h3>
